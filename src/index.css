@@ -49,3 +49,10 @@ p {
   width: 100%;
   margin-bottom: 1rem;
 }
+
+.first {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}

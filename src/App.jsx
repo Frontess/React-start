@@ -16,6 +16,9 @@ export default function App() {
       <Header />
       <main> 
       <IntroSection /> 
+        <span>
+        <img className='first' src='/Frame.jpg' />
+        </span>
       <TabsSection active={tab} onChange={(current) => setTab (current)}/>
 
       {tab === 'main' && (

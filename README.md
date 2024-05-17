@@ -5,7 +5,7 @@
 
 <img width="1103" alt="Снимок экрана 2024-05-14 в 16 29 35" src="https://github.com/Frontess/React-start/assets/127450758/7fbeb067-15af-447b-b353-026500df98ab">
 
-#### Project setup
+## Project setup
 ```
 npm i
 ```

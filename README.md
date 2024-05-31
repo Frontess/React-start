@@ -1,7 +1,8 @@
 # React + Vite
 
+Сервис отображения перехода по страницам, заполнение форм и фильтрация данных.
 
-<img width="1394" alt="Снимок экрана 2024-05-14 в 16 29 06" src="https://github.com/Frontess/React-start/assets/127450758/22bcf785-eb3f-4483-bf36-432c6e86672a">
+<img width="1394" alt="Снимок экрана 2024-05-14 в 16 29 06" src="https://github.com/Frontess/React-start/assets/127450758/22bcf785-eb3f-4483-bf36-432c6e86672a">    
 
 <img width="1103" alt="Снимок экрана 2024-05-14 в 16 29 35" src="https://github.com/Frontess/React-start/assets/127450758/7fbeb067-15af-447b-b353-026500df98ab">
 
